@@ -1,0 +1,15 @@
+C:\Users\54106581833\Desktop\estrutura repetiçao\bin\Debug\net7.0\estrutura repetiçao.exe
+C:\Users\54106581833\Desktop\estrutura repetiçao\bin\Debug\net7.0\estrutura repetiçao.deps.json
+C:\Users\54106581833\Desktop\estrutura repetiçao\bin\Debug\net7.0\estrutura repetiçao.runtimeconfig.json
+C:\Users\54106581833\Desktop\estrutura repetiçao\bin\Debug\net7.0\estrutura repetiçao.dll
+C:\Users\54106581833\Desktop\estrutura repetiçao\bin\Debug\net7.0\estrutura repetiçao.pdb
+C:\Users\54106581833\Desktop\estrutura repetiçao\obj\Debug\net7.0\estrutura repetiçao.csproj.AssemblyReference.cache
+C:\Users\54106581833\Desktop\estrutura repetiçao\obj\Debug\net7.0\estrutura repetiçao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54106581833\Desktop\estrutura repetiçao\obj\Debug\net7.0\estrutura repetiçao.AssemblyInfoInputs.cache
+C:\Users\54106581833\Desktop\estrutura repetiçao\obj\Debug\net7.0\estrutura repetiçao.AssemblyInfo.cs
+C:\Users\54106581833\Desktop\estrutura repetiçao\obj\Debug\net7.0\estrutura repetiçao.csproj.CoreCompileInputs.cache
+C:\Users\54106581833\Desktop\estrutura repetiçao\obj\Debug\net7.0\estrutura repetiçao.dll
+C:\Users\54106581833\Desktop\estrutura repetiçao\obj\Debug\net7.0\refint\estrutura repetiçao.dll
+C:\Users\54106581833\Desktop\estrutura repetiçao\obj\Debug\net7.0\estrutura repetiçao.pdb
+C:\Users\54106581833\Desktop\estrutura repetiçao\obj\Debug\net7.0\estrutura repetiçao.genruntimeconfig.cache
+C:\Users\54106581833\Desktop\estrutura repetiçao\obj\Debug\net7.0\ref\estrutura repetiçao.dll
